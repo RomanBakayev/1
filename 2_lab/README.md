@@ -10,28 +10,33 @@
 3. Спробувли базові функції;
 
 - вставлений код / текстовий або числовий результат / інші результати:
-## Працюю з базовими типами даних
-```python
-this_is_variable = "Це є тип стрічка"
-var_2 = "Круто"
-print(this_is_variable, var_2)
-```
-```python
-a = 4
-b = 10
-print(a+b)
-```
+
+## 1. 
+![alt text](https://github.com/RomanBakayev/bakayev-tks24/raw/main/2_lab/scr/1/unknown.png "Працюю з базовими типами даних")
+![alt text](https://github.com/RomanBakayev/bakayev-tks24/raw/main/2_lab/scr/1/unknown%20(1).png)
+![alt text](https://github.com/RomanBakayev/bakayev-tks24/raw/main/2_lab/scr/1/unknown%20(2).png)
+
+## 2. 
+![alt text](https://github.com/RomanBakayev/bakayev-tks24/raw/main/2_lab/scr/2/unknown%20(3).png "Знайомлюсь з словниками")
+
+## 3.
+![alt text](https://github.com/RomanBakayev/bakayev-tks24/raw/main/2_lab/scr/3/unknown%20(4).png "Робота з циклами")
+![alt text](https://github.com/RomanBakayev/bakayev-tks24/raw/main/2_lab/scr/3/unknown%20(5).png "Робота з циклами")
+![alt text](https://github.com/RomanBakayev/bakayev-tks24/raw/main/2_lab/scr/3/unknown%20(6).png "Робота з циклами")
+![alt text](https://github.com/RomanBakayev/bakayev-tks24/raw/main/2_lab/scr/3/unknown%20(7).png "Робота з циклами")
+![alt text](https://github.com/RomanBakayev/bakayev-tks24/raw/main/2_lab/scr/3/unknown%20(8).png "Робота з циклами")
+
 ### Висновок: 
 > у висновку потрібно відповісти на запитання:
 - :question: Що зроблено в роботі;
 
-Перша програма мовою програмування Python
+Дізнався, як працювати з базовими типами даних, словниками та циклами у мові програмування Python
 - :question: Чи досягнуто мети роботи;
 
-так, зробили звіт до першої програми на Пітоні
+так, зробили звіт
 - :question: Які нові знання отримано;
 
-навчились писати та запускати програми мовою Пітон
+навчились як працювати з базовими типами даних, словниками та циклами у мові програмування Python
 - :question: Чи вдалось відповісти на всі питання задані в ході роботи;
 
 Так
@@ -45,5 +50,5 @@ print(a+b)
 
 Так
 - :question: Побажання для покращення (Suggestions);
-
+Не має побажань, бо і так усе подобається
 ---
