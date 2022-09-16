@@ -26,6 +26,17 @@
 ![alt text](https://github.com/RomanBakayev/bakayev-tks24/raw/main/2_lab/scr/3/unknown%20(7).png "Робота з циклами")
 ![alt text](https://github.com/RomanBakayev/bakayev-tks24/raw/main/2_lab/scr/3/unknown%20(8).png "Робота з циклами")
 
+## 4.
+![alt text](https://github.com/RomanBakayev/bakayev-tks24/raw/main/2_lab/scr/unknown%20(9).png "Робота з циклами")
+![alt text](https://github.com/RomanBakayev/bakayev-tks24/raw/main/2_lab/scr/unknown%20(10).png "Робота з циклами")
+
+## 5.
+![alt text](https://github.com/RomanBakayev/bakayev-tks24/raw/main/2_lab/scr/unknown%20(11).png "Робота з циклами")
+
+## 6.
+![alt text](https://github.com/RomanBakayev/bakayev-tks24/raw/main/2_lab/scr/unknown%20(12).png "Робота з циклами")
+![alt text](https://github.com/RomanBakayev/bakayev-tks24/raw/main/2_lab/scr/unknown%20(13).png "Робота з циклами")
+
 ### Висновок: 
 > у висновку потрібно відповісти на запитання:
 - :question: Що зроблено в роботі;
