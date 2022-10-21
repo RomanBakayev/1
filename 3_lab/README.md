@@ -12,31 +12,23 @@
 - вставлений код / текстовий або числовий результат / інші результати:
 
 ## 1. 
-![alt text](https://github.com/RomanBakayev/bakayev-tks24/raw/main/2_lab/scr/1/unknown.png "Працюю з базовими типами даних")
-![alt text](https://github.com/RomanBakayev/bakayev-tks24/raw/main/2_lab/scr/1/unknown%20(1).png)
-![alt text](https://github.com/RomanBakayev/bakayev-tks24/raw/main/2_lab/scr/1/unknown%20(2).png)
+![alt text](https://github.com/RomanBakayev/bakayev-tks24/raw/main/3_lab/scr/unknown.png)
+## 2.
+![alt text](https://raw.githubusercontent.com/RomanBakayev/bakayev-tks24/main/3_lab/scr/unknown1.png)
+## 3.
+![alt text](https://github.com/RomanBakayev/bakayev-tks24/raw/main/3_lab/scr/unknown2.png)
 
 ## 2. 
-![alt text](https://github.com/RomanBakayev/bakayev-tks24/raw/main/2_lab/scr/2/unknown%20(3).png "Знайомлюсь з словниками")
+![alt text](https://github.com/RomanBakayev/bakayev-tks24/raw/main/3_lab/scr/unknown3.png)
 
 ## 3.
-![alt text](https://github.com/RomanBakayev/bakayev-tks24/raw/main/2_lab/scr/3/unknown%20(4).png "Робота з циклами")
-![alt text](https://github.com/RomanBakayev/bakayev-tks24/raw/main/2_lab/scr/3/unknown%20(5).png "Робота з циклами")
-![alt text](https://github.com/RomanBakayev/bakayev-tks24/raw/main/2_lab/scr/3/unknown%20(6).png "Робота з циклами")
-![alt text](https://github.com/RomanBakayev/bakayev-tks24/raw/main/2_lab/scr/3/unknown%20(7).png "Робота з циклами")
-![alt text](https://github.com/RomanBakayev/bakayev-tks24/raw/main/2_lab/scr/3/unknown%20(8).png "Робота з циклами")
-
+![alt text](https://github.com/RomanBakayev/bakayev-tks24/raw/main/3_lab/scr/unknown4.png)
 ## 4.
-![alt text](https://github.com/RomanBakayev/bakayev-tks24/raw/main/2_lab/scr/unknown%20(9).png "Робота з циклами")
-![alt text](https://github.com/RomanBakayev/bakayev-tks24/raw/main/2_lab/scr/unknown%20(10).png "Робота з циклами")
-
+![alt text](https://github.com/RomanBakayev/bakayev-tks24/raw/main/3_lab/scr/unknown5.png)
 ## 5.
-![alt text](https://github.com/RomanBakayev/bakayev-tks24/raw/main/2_lab/scr/unknown%20(11).png "Робота з циклами")
-
+![alt text](https://github.com/RomanBakayev/bakayev-tks24/raw/main/3_lab/scr/unknown6.png)
 ## 6.
-![alt text](https://github.com/RomanBakayev/bakayev-tks24/raw/main/2_lab/scr/unknown%20(12).png "Робота з циклами")
-![alt text](https://github.com/RomanBakayev/bakayev-tks24/raw/main/2_lab/scr/unknown%20(13).png "Робота з циклами")
-
+![alt text](https://github.com/RomanBakayev/bakayev-tks24/raw/main/3_lab/scr/unknown7.png)
 ### Висновок: 
 > у висновку потрібно відповісти на запитання:
 - :question: Що зроблено в роботі;
