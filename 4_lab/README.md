@@ -7,34 +7,8 @@
 
 
 ## 1. Які бібліотеки вже інстальовані на моєму компютері
-![alt text](https://github.com/RomanBakayev/bakayev-tks24/raw/main/3_lab/scr/unknown.png)
+![alt text](https://raw.githubusercontent.com/RomanBakayev/bakayev-tks24/main/4_lab/scr/image.png)
 ## 2. Встанволення бібліотеки request
-![alt text](https://raw.githubusercontent.com/RomanBakayev/bakayev-tks24/main/3_lab/scr/unknown1.png)
+![alt text](https://raw.githubusercontent.com/RomanBakayev/bakayev-tks24/main/4_lab/scr/image2.png)
 ## 3.Результат виконання програми
-![alt text](https://github.com/RomanBakayev/bakayev-tks24/raw/main/3_lab/scr/unknown2.png)
-### Висновок: 
-> у висновку потрібно відповісти на запитання:
-- :question: Що зроблено в роботі;
-
-Дізнався, як працювати з базовими типами даних, словниками та циклами у мові програмування Python
-- :question: Чи досягнуто мети роботи;
-
-так, зробили звіт
-- :question: Які нові знання отримано;
-
-навчились як працювати з базовими типами даних, словниками та циклами у мові програмування Python
-- :question: Чи вдалось відповісти на всі питання задані в ході роботи;
-
-Так
-- :question: Чи вдалося виконати всі завдання;
-
-Так
-- :question: Чи виникли складності у виконанні завдання;
-
-Ні
-- :question: Чи подобається такий формат здачі роботи (Feedback);
-
-Так
-- :question: Побажання для покращення (Suggestions);
-Не має побажань, бо і так усе подобається
----
+![alt text](https://raw.githubusercontent.com/RomanBakayev/bakayev-tks24/main/4_lab/scr/image3.png)
